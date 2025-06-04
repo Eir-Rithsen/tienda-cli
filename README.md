@@ -1,4 +1,3 @@
-# tienda-cli
 Proyecto Pre-Entrga 
 ## tienda-cli/
 * index.js
