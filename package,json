@@ -1,0 +1,16 @@
+{
+  "name": "tienda-cli",
+  "version": "1.0.0",
+  "description": "Aplicación CLI en Node.js para gestionar productos usando la FakeStore API.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nicky",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
