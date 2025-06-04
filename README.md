@@ -1,6 +1,6 @@
 # tienda-cli
 Proyecto Pre-Entrga 
-tienda-cli/
+## tienda-cli/
 * index.js
 * package.json
 * README.md
