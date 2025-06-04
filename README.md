@@ -42,18 +42,3 @@ npm run start DELETE products/8
 ## 🧑‍💻 Auto
 
 Desarrollado por Ivan Alberto Nicolas Collar Rithsen (Eir-Rithsen)
-
-
----
-
-### ✅ Últimos pasos para subir a GitHub
-
-1. Inicializar Git:
-
-```bash
-git init
-git add .
-git commit -m "Pre-entrega TechLab - Tienda CLI"
-
-
-
